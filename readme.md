@@ -1,2 +1,2 @@
 # ProIMU 
-### A high precision interial measurement unit with altitute and gps support.
+### A high precision interial measurement unit with altitute and GPS support.
