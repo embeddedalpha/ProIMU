@@ -1,0 +1,40 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MPU-9250
+#
+DEF MPU-9250 U 0 40 Y Y 1 L N
+F0 "U" -601 821 50 H V L BNN
+F1 "MPU-9250" -600 -800 50 H V L BNN
+F2 "QFN40P300X300X105-24N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "SMD Gyroscope/Accelerometer/Magnetometer Sensor; 9-AXIS" 0 0 50 H I L BNN "DESCRIPTION"
+F5 "The center Exposed Pad (EP), for MPU devices is a No Connect (NC) pad. To avoid package stress, do not solder the EP to the PCB. Please refer to the document “AN-IVS-0002A-00”. As a result of these guidelines, the exposed pad has not been included on the PCB footprint. We’ve added a keep-out area under the exposed pad. Please don’t route traces or vias under the part, on the same side of the board" 0 0 50 H I L BNN "NOTES"
+F6 "1428-1019-1-ND" 0 0 50 H I L BNN "DIGI-KEY_PART_NUMBER"
+F7 "TDK InvenSense" 0 0 50 H I L BNN "MF"
+F8 "https://www.digikey.in/product-detail/en/tdk-invensense/MPU-9250/1428-1019-1-ND/4626450?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN "DIGI-KEY_PURCHASE_URL"
+F9 "MPU-9250" 0 0 50 H I L BNN "MP"
+F10 "QFN-24 TDK InvenSense" 0 0 50 H I L BNN "PACKAGE"
+DRAW
+S -600 -700 600 800 0 0 6 f
+X FSYNC 11 -800 400 200 R 40 40 0 0 I 
+X VDDIO 8 800 600 200 L 40 40 0 0 W 
+X INT 12 800 400 200 L 40 40 0 0 O 
+X AD0/SDO 9 -800 -100 200 R 40 40 0 0 O 
+X REGOUT 10 800 200 200 L 40 40 0 0 O 
+X VDD 13 800 700 200 L 40 40 0 0 W 
+X GND 18 800 -600 200 L 40 40 0 0 W 
+X RESV_19 19 800 -100 200 L 40 40 0 0 P 
+X RESV_20 20 800 -200 200 L 40 40 0 0 P 
+X AUX_DA 21 -800 -300 200 R 40 40 0 0 I 
+X SCL/SCLK 23 -800 100 200 R 40 40 0 0 I C
+X ~CS 22 -800 200 200 R 40 40 0 0 I 
+X SDA/SDI 24 -800 0 200 R 40 40 0 0 B 
+X AUX_CL 7 -800 -200 200 R 40 40 0 0 I C
+X RESV_1 1 800 0 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
