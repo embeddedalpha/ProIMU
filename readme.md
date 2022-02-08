@@ -10,6 +10,9 @@
 <li>Images</li>
 
 
+### Pinout of the MCU
+
+<img src="Images/Pinout.png">
 
 
 
