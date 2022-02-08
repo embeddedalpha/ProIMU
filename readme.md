@@ -4,9 +4,12 @@
 
 ### Folders:
 
--> Documentation
--> Hardware Files
--> Firmware
--> Web Page
+<li>Documentation</li>
+<li>Hardware</li>
+<li>Firmware</li>
+<li>Images</li>
+
+
+
 
 
