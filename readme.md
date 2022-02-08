@@ -14,5 +14,10 @@
 
 <img src="Images/Pinout.png">
 
+### Features available:
 
+<li>Yaw  (degrees / rad)</li>
+<li>Pitch  (degrees / rad)</li>
+<li>Roll   (degrees / rad)</li>
+<li>Images (degrees / rad)</li>
 

@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "footprints")(type "KiCad")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/footprints.pretty")(options "")(descr ""))
 )
