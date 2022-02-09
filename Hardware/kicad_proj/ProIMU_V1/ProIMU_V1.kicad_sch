@@ -3868,7 +3868,6 @@
     )
   )
 
-
   (junction (at 91.44 76.2) (diameter 0) (color 0 0 0 0)
     (uuid 0fcf7ee2-5f3a-45f2-a857-e455f6b83ed5)
   )
@@ -3943,10 +3942,10 @@
   (no_connect (at 278.13 39.37) (uuid 71a6b503-e3e2-407a-a7cd-23ed93547f8f))
   (no_connect (at 80.01 109.22) (uuid 8e80164b-0a81-44b8-893a-49db75e8a26b))
   (no_connect (at 138.43 95.885) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b50))
-  (no_connect (at 138.43 98.425) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b50))
-  (no_connect (at 138.43 93.345) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b50))
-  (no_connect (at 138.43 90.805) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b50))
-  (no_connect (at 138.43 88.265) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b50))
+  (no_connect (at 138.43 98.425) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b51))
+  (no_connect (at 138.43 93.345) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b52))
+  (no_connect (at 138.43 90.805) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b53))
+  (no_connect (at 138.43 88.265) (uuid 96643b2f-ddd6-4539-af1b-1addb2f89b54))
   (no_connect (at 48.26 96.52) (uuid 97f7669f-ae70-4bb2-b5d2-3a6dc9ea0322))
   (no_connect (at 96.52 178.435) (uuid a081d9e9-53a5-42a8-bf3b-73400c39002c))
   (no_connect (at 55.88 178.435) (uuid c72532ec-0bbb-47a7-b812-d19a67f9eda2))
@@ -5588,7 +5587,7 @@
     (uuid 6e3ff496-d404-4c22-8d76-cfb864912843)
     (property "Reference" "J2" (id 0) (at 142.24 17.145 0))
     (property "Value" "502570-0893" (id 1) (at 142.24 19.05 0))
-    (property "Footprint" "MOLEX_502570-0893" (id 2) (at 147.32 33.02 0)
+    (property "Footprint" "footprints:MOLEX_502570-0893" (id 2) (at 147.32 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 147.32 33.02 0)
@@ -6648,7 +6647,7 @@
       (reference "J1") (unit 1) (value "USB4105-GF-A") (footprint "GCT_USB4105-GF-A")
     )
     (path "/6e3ff496-d404-4c22-8d76-cfb864912843"
-      (reference "J2") (unit 1) (value "502570-0893") (footprint "MOLEX_502570-0893")
+      (reference "J2") (unit 1) (value "502570-0893") (footprint "footprints:MOLEX_502570-0893")
     )
     (path "/ef4db96a-f7d7-4a70-8c0a-4ef685b27e8d"
       (reference "PWR1") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "")
