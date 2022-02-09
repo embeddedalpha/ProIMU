@@ -4,4 +4,5 @@
   (lib (name "502570-0893")(type "Legacy")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/502570-0893.lib")(options "")(descr ""))
   (lib (name "MPU-9250")(type "Legacy")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/MPU-9250.lib")(options "")(descr ""))
   (lib (name "USB4105-GF-A")(type "Legacy")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/USB4105-GF-A.lib")(options "")(descr ""))
+  (lib (name "air602")(type "Legacy")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/air602.lib")(options "")(descr ""))
 )
