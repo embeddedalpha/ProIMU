@@ -19,5 +19,10 @@
 <li>Yaw  (degrees / rad)</li>
 <li>Pitch  (degrees / rad)</li>
 <li>Roll   (degrees / rad)</li>
-<li>Images (degrees / rad)</li>
-
+<li>Quaternions (degrees / rad)</li>
+<li>Pressure </li>
+<li>Altitude </li>
+<li>Temperature </li>
+<li>Longitutde </li>
+<li>Lattitude </li>
+<li>Raw Accelerometer, Gyroscope & Magnetometer </li>
