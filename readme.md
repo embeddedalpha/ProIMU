@@ -26,3 +26,5 @@
 <li>Longitutde </li>
 <li>Lattitude </li>
 <li>Raw Accelerometer, Gyroscope & Magnetometer </li>
+<li>Direction (N/W/E/S) </li>
+
