@@ -4645,7 +4645,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1e5f7e03-7aaf-4cbb-8c3e-06bfc4eeb7cf)
   )
-  (text "BATTERY CHARGER MODULE\nDC-DC CONVERTER\nWIFI/BLE MODEM\nCRYSTAL CIRCUIT\nSD CARD\nMOUNTING HOLES\nGPS"
+  (text "BATTERY CHARGER MODULE\nDC-DC CONVERTER\nWIFI/BLE MODEM\nCRYSTAL CIRCUIT\nMOUNTING HOLES\nGPS"
     (at 109.22 -10.16 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 453478c2-a90a-4089-ac0e-30518a730894)
