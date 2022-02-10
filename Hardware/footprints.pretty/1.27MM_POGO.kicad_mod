@@ -1,0 +1,11 @@
+
+(module 1.27MM_POGO (layer F.Cu) (tedit 6204C46D)
+  (descr "")
+  (fp_text reference REF** (at 0 0) (layer F.SilkS)
+    (effects (font (size 0.787401574803 0.787401574803) (thickness 0.15)))
+  )
+  (fp_text value 1.27MM_POGO (at 0 0) (layer F.Fab)
+    (effects (font (size 0.787401574803 0.787401574803) (thickness 0.15)))
+  )
+  (pad P$1 thru_hole circle (at 0.0 0.0) (size 1.905 1.905) (drill 1.27) (layers *.Cu *.Mask))
+)
