@@ -440,6 +440,14 @@
     [
       "17062b70-c549-4bcd-b5f3-6b5f30bea7aa",
       "RS485 Isolator"
+    ],
+    [
+      "a9803014-b724-4cae-ba4b-6660e60196e3",
+      "MCU"
+    ],
+    [
+      "f9c93f3c-86cf-437a-a0e1-c38a0cc8be23",
+      "USB"
     ]
   ],
   "text_variables": {}
