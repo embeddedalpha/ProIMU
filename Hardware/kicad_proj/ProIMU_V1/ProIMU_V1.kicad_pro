@@ -432,6 +432,14 @@
     [
       "09535cde-9ba2-41fd-bb26-86cd9c93b7a7",
       "Power"
+    ],
+    [
+      "f55cf286-d42e-4fb3-952d-a656ddba4706",
+      "CAN Transreceiver"
+    ],
+    [
+      "17062b70-c549-4bcd-b5f3-6b5f30bea7aa",
+      "RS485 Isolator"
     ]
   ],
   "text_variables": {}
