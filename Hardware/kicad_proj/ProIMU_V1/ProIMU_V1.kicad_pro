@@ -446,8 +446,16 @@
       "MCU"
     ],
     [
-      "f9c93f3c-86cf-437a-a0e1-c38a0cc8be23",
-      "USB"
+      "7076a856-20b1-434f-b992-bac3d5356566",
+      "USB ISOLATOR"
+    ],
+    [
+      "d47f4287-df51-4107-8096-c7625cd2b515",
+      "MPU9250"
+    ],
+    [
+      "d6633cf1-e07a-4215-86b7-68d6da2ead0f",
+      "BMP280"
     ]
   ],
   "text_variables": {}
