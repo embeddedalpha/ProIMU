@@ -28,3 +28,10 @@
 <li>Raw Accelerometer, Gyroscope & Magnetometer </li>
 <li>Direction (N/W/E/S) </li>
 
+### Communication Protocols Available:
+
+<li>CAN FD</li>
+<li>RS485</li>
+<li>USB</li>
+<li>TCP IP Socket</li>
+
