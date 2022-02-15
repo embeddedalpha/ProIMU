@@ -34,4 +34,4 @@
 <li>RS485</li>
 <li>USB</li>
 <li>TCP IP Socket</li>
-
+<li>MQTT</li>
