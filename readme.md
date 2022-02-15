@@ -14,7 +14,7 @@
 
 <img src="Images/Pinout.png">
 
-### Features available:
+### Features available: 
 
 <li>Yaw  (degrees / rad)</li>
 <li>Pitch  (degrees / rad)</li>
@@ -35,3 +35,4 @@
 <li>USB</li>
 <li>TCP IP Socket</li>
 <li>MQTT</li>
+
