@@ -1,0 +1,66 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SM06B-SRSS-TBLFSN
+#
+DEF SM06B-SRSS-TBLFSN J 0 0 Y Y 1 L N
+F0 "J" 0 300 50 H V L CNN
+F1 "SM06B-SRSS-TBLFSN" 0 400 50 H V L CNN
+F2 "JST-SM06B-SRSS-TBLFSN-0-0-*" 0 500 50 H I L CNN
+F3 "https://upverter.com/datasheet/d30fcd569e99dc79eedd5035e0cc7bd325c829a9.pdf" 0 600 50 H I L CNN
+F4 "610-00149" 0 700 50 H I L CNN "3DS Part Number"
+F5 "Conn" 0 800 50 H I L CNN "category"
+F6 "Connectors" 0 900 50 H I L CNN "category 0836c53c3d42d3f1"
+F7 "Connectors and Adapters" 0 1000 50 H I L CNN "category 75fab8f04590ae3d"
+F8 "Rectangular Industrial Connectors" 0 1100 50 H I L CNN "category a0826d8895867b45"
+F9 "Uncategorized" 0 1200 50 H I L CNN "category a3c16ecb93907806"
+F10 "Uncategorized" 0 1300 50 H I L CNN "category bda670ac885e6661"
+F11 "PC Board" 0 1400 50 H I L CNN "category dab617bcef8c0171"
+F12 "Wire to Board" 0 1500 50 H I L CNN "category e42c2926d3763feb"
+F13 "Tin" 0 1600 50 H I L CNN "contact material"
+F14 "1A" 0 1700 50 H I L CNN "current rating"
+F15 "Connectors" 0 1800 50 H I L CNN "device class L1"
+F16 "Headers and Wire Housings" 0 1900 50 H I L CNN "device class L2"
+F17 "unset" 0 2000 50 H I L CNN "device class L3"
+F18 "CONN HEADER SH 6POS SIDE 1MM TIN" 0 2100 50 H I L CNN "digikey description"
+F19 "455-1806-1-ND" 0 2200 50 H I L CNN "digikey part number"
+F20 "2.9mm" 0 2300 50 H I L CNN "height"
+F21 "yes" 0 2400 50 H I L CNN "is connector"
+F22 "yes" 0 2500 50 H I L CNN "is male"
+F23 "yes" 0 2600 50 H I L CNN "lead free"
+F24 "60aa9f80cd19f403" 0 2700 50 H I L CNN "library id"
+F25 "JST" 0 2800 50 H I L CNN "manufacturer"
+F26 "surface mount" 0 2900 50 H I L CNN "mounting type"
+F27 "8" 0 3000 50 H I L CNN "num pins"
+F28 "6" 0 3100 50 H I L CNN "number of contacts"
+F29 "1" 0 3200 50 H I L CNN "number of rows"
+F30 "c7820e8c88f91845" 0 3300 50 H I L CNN "octopart part number"
+F31 "HDR6" 0 3400 50 H I L CNN "package"
+F32 "yes" 0 3500 50 H I L CNN "rohs"
+F33 "0mm" 0 3600 50 H I L CNN "standoff height"
+F34 "+85°C" 0 3700 50 H I L CNN "temperature range high"
+F35 "-25°C" 0 3800 50 H I L CNN "temperature range low"
+F36 "50V" 0 3900 50 H I L CNN "voltage rating"
+F37 "Natural" 0 4000 50 H I L CNN "color"
+F38 "Copper" 0 4100 50 H I L CNN "contact material"
+F39 "Tin" 0 4200 50 H I L CNN "contact plating"
+F40 "20 mΩ" 0 4300 50 H I L CNN "contact resistance"
+F41 "1 A" 0 4400 50 H I L CNN "current rating"
+F42 "UL 94 V-0" 0 4500 50 H I L CNN "flammability rating"
+F43 "Male" 0 4600 50 H I L CNN "gender"
+F44 "Natural" 0 4700 50 H I L CNN "housing color"
+F45 "Nylon" 0 4800 50 H I L CNN "housing material"
+F46 "100 MΩ" 0 4900 50 H I L CNN "insulation resistance"
+F47 "6" 0 5000 50 H I L CNN "number of contacts"
+F48 "6" 0 5100 50 H I L CNN "number of positions"
+F49 "1" 0 5200 50 H I L CNN "number of rows"
+F50 "1 mm" 0 5300 50 H I L CNN "pin pitch"
+F51 "2.9 mm" 0 5400 50 H I L CNN "size height"
+F52 "8 mm" 0 5500 50 H I L CNN "size length"
+F53 "4.25 mm" 0 5600 50 H I L CNN "size width"
+F54 "50 V" 0 5700 50 H I L CNN "voltage rating ac"
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library
