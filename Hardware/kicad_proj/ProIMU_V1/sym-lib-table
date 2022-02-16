@@ -7,4 +7,6 @@
   (lib (name "2022-02-05_19-28-45")(type "KiCad")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/2022-02-05_19-28-45.kicad_sym")(options "")(descr ""))
   (lib (name "POGOPIN")(type "KiCad")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/POGOPIN.kicad_sym")(options "")(descr ""))
   (lib (name "MP2731GQC-0000-Z")(type "KiCad")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/MP2731GQC-0000-Z.kicad_sym")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/eec.kicad_sym")(options "")(descr ""))
+  (lib (name "JST_SM06B")(type "Legacy")(uri "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/lib_fp.pretty/JST_SM06B.lib")(options "")(descr ""))
 )
