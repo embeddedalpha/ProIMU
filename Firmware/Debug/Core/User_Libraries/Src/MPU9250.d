@@ -1,4 +1,6 @@
-Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
+Core/User_Libraries/Src/MPU9250.o: ../Core/User_Libraries/Src/MPU9250.c \
+ C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/MPU9250.h \
+ ../Core/Inc/main.h \
  C:/Users/Kunal/STM32Cube/Repository/STM32Cube_FW_F4_V1.26.2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
  ../Core/Inc/stm32f4xx_hal_conf.h \
  C:/Users/Kunal/STM32Cube/Repository/STM32Cube_FW_F4_V1.26.2/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
@@ -28,17 +30,12 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  C:/Users/Kunal/STM32Cube/Repository/STM32Cube_FW_F4_V1.26.2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
  C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/Console.h \
  C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/GPIO.h \
- ../Core/Inc/stm32f4xx.h ../USB_DEVICE/App/usb_device.h \
- C:/Users/Kunal/STM32Cube/Repository/STM32Cube_FW_F4_V1.26.2/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
- ../USB_DEVICE/Target/usbd_conf.h \
- C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/I2C.h \
- C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/GPIO.h \
- C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/BMP280.h \
+ ../Core/Inc/stm32f4xx.h \
  C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/I2C.h \
  C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/Console.h \
- C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/BMP280_Reg.h \
- C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/MPU9250.h \
  C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/MPU9250_Reg.h
+
+C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/MPU9250.h:
 
 ../Core/Inc/main.h:
 
@@ -106,24 +103,8 @@ C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc
 
 ../Core/Inc/stm32f4xx.h:
 
-../USB_DEVICE/App/usb_device.h:
-
-C:/Users/Kunal/STM32Cube/Repository/STM32Cube_FW_F4_V1.26.2/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
-
-../USB_DEVICE/Target/usbd_conf.h:
-
-C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/I2C.h:
-
-C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/GPIO.h:
-
-C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/BMP280.h:
-
 C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/I2C.h:
 
 C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/Console.h:
-
-C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/BMP280_Reg.h:
-
-C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/MPU9250.h:
 
 C:/Users/Kunal/STM32CubeIDE/Kunal/Blackshield_Eng/ProIMU/Core/User_Libraries/Inc/MPU9250_Reg.h:

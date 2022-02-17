@@ -5,19 +5,25 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
+../Core/User_Libraries/Src/BMP280.c \
 ../Core/User_Libraries/Src/Console.c \
 ../Core/User_Libraries/Src/GPIO.c \
-../Core/User_Libraries/Src/I2C.c 
+../Core/User_Libraries/Src/I2C.c \
+../Core/User_Libraries/Src/MPU9250.c 
 
 OBJS += \
+./Core/User_Libraries/Src/BMP280.o \
 ./Core/User_Libraries/Src/Console.o \
 ./Core/User_Libraries/Src/GPIO.o \
-./Core/User_Libraries/Src/I2C.o 
+./Core/User_Libraries/Src/I2C.o \
+./Core/User_Libraries/Src/MPU9250.o 
 
 C_DEPS += \
+./Core/User_Libraries/Src/BMP280.d \
 ./Core/User_Libraries/Src/Console.d \
 ./Core/User_Libraries/Src/GPIO.d \
-./Core/User_Libraries/Src/I2C.d 
+./Core/User_Libraries/Src/I2C.d \
+./Core/User_Libraries/Src/MPU9250.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
@@ -27,7 +33,7 @@ Core/User_Libraries/Src/%.o: ../Core/User_Libraries/Src/%.c Core/User_Libraries/
 clean: clean-Core-2f-User_Libraries-2f-Src
 
 clean-Core-2f-User_Libraries-2f-Src:
-	-$(RM) ./Core/User_Libraries/Src/Console.d ./Core/User_Libraries/Src/Console.o ./Core/User_Libraries/Src/GPIO.d ./Core/User_Libraries/Src/GPIO.o ./Core/User_Libraries/Src/I2C.d ./Core/User_Libraries/Src/I2C.o
+	-$(RM) ./Core/User_Libraries/Src/BMP280.d ./Core/User_Libraries/Src/BMP280.o ./Core/User_Libraries/Src/Console.d ./Core/User_Libraries/Src/Console.o ./Core/User_Libraries/Src/GPIO.d ./Core/User_Libraries/Src/GPIO.o ./Core/User_Libraries/Src/I2C.d ./Core/User_Libraries/Src/I2C.o ./Core/User_Libraries/Src/MPU9250.d ./Core/User_Libraries/Src/MPU9250.o
 
 .PHONY: clean-Core-2f-User_Libraries-2f-Src
 

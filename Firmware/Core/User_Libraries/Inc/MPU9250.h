@@ -9,8 +9,8 @@
 #define MPU9250_MPU9250_H_
 
 #include "main.h"
-#include "I2C/I2C.h"
-#include "Console/Console.h"
+#include "I2C.h"
+#include "Console.h"
 #include "MPU9250_Reg.h"
 
 I2C_Config MPU9250;

@@ -23,7 +23,7 @@
 #define BMP280_I2C	1
 
 I2C_Config BMP280_I2C_Struct ;
-SPI_Config BMP280_SPI_Struct;
+//SPI_Config BMP280_SPI_Struct;
 
 
 struct Temp_Cal

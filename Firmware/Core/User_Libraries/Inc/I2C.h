@@ -18,8 +18,10 @@
 typedef struct I2C_Config
 {
 	I2C_TypeDef *I2C;
+	int alternate_pin;
 	bool mode;
 }I2C_Config;
+
 
 
 void I2C_Master_Init(I2C_Config I2C);
