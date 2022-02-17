@@ -3,6 +3,7 @@
 #include "I2C.h"
 #include "GPIO.h"
 #include "BMP280.h"
+#include "MPU9250.h"
 
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -16,6 +17,8 @@ int main(void)
   MX_GPIO_Init();
   MX_USB_DEVICE_Init();
   BMP280_Init(I2C1);
+
+
 
   while (1)
   {
