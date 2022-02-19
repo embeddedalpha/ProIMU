@@ -336,7 +336,7 @@ static void AK8963_Init(void)
 
 
 #if MPU9250_I2C
-	void IMU_Init(I2C_TypeDef *PORT)
+	int IMU_Init(I2C_TypeDef *PORT)
 	{
 		float accl_x_avg, accl_y_avg, accl_z_avg;
 		float gyro_x_avg, gyro_y_avg, gyro_z_avg;
@@ -359,16 +359,26 @@ static void AK8963_Init(void)
 		MPU9250_I2C_Struct.I2C = PORT;
 		MPU9250_I2C_Struct.mode = I2C_Fast_Mode;
 		I2C_Master_Init(MPU9250_I2C_Struct);
-
 		read = I2C_Master_Read_Register(MPU9250_I2C_Struct, MPU9250_ADDRESS, WHO_AM_I_MPU9250);
 		if(read == 113)
 		{
 			printConsole(USART1, "Communication established with MPU9250 1: \r\n");
+
 		}
 		else
 		{
 			printConsole(USART1, "Check Connection or State of MPU9250 1: \r\n");
+			return -1;
 		}
+
+
+
+
+
+
+
+
+
 		//Exit sleep mode
 		I2C_Master_Write_Register(MPU9250_I2C_Struct, MPU9250_ADDRESS, PWR_MGMT_1, 0x00);
 		Delay_ms(100);

@@ -85,8 +85,10 @@ struct MPU9250_Angle
 
 
 #if MPU9250_I2C
-	void IMU_Init();
-	void IMU_Get_Data();
+	int MPU9250_Init();
+	int AK8963_Init();
+	void MPU9250_Get_Data();
+	void AK8963_Get_Data();
 #endif
 
 
