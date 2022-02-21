@@ -31,7 +31,7 @@
 ### Communication Protocols Available:
 
 <li>CAN FD</li>
-<li>RS485</li>
+<li>RS232</li>
 <li>USB</li>
 <li>TCP IP Socket</li>
 <li>MQTT</li>
