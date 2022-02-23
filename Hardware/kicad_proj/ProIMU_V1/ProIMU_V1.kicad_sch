@@ -4256,7 +4256,7 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2")
     )
     (path "/09535cde-9ba2-41fd-bb26-86cd9c93b7a7/955488b0-3db1-4be0-9d64-c3eafdec6ce0"
-      (reference "IC1") (unit 1) (value "MP2731GQC-0000-Z") (footprint "MP2731GQC0000Z")
+      (reference "IC1") (unit 1) (value "MP2731GQC-0000-Z") (footprint "footprints:MP2731GQC0000Z")
     )
     (path "/7fe98cb8-0b21-4a87-8b7a-3c346884bc6f"
       (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical_SMD")
