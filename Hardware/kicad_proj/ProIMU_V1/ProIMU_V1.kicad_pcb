@@ -353,7 +353,7 @@
 
   (footprint "footprints:MP2731GQC0000Z" (layer "F.Cu")
     (tedit 0) (tstamp 0abe2ac0-c233-41bb-aad0-29ca97062aa1)
-    (at 238.5 67)
+    (at 243.9 46.6)
     (descr "QFN-26 (3.5mmx3.5mm)-2022")
     (tags "Integrated Circuit")
     (property "Description" "PDA\\'s, Portable Audio/Video, Smartphones PMIC 26-QFN (3.5x3.5)")
