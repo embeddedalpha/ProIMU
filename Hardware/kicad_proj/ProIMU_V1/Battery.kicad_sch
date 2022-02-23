@@ -1062,7 +1062,7 @@
     )
   )
 
-  (hierarchical_label "DP" (shape input) (at 82.55 74.93 180)
+  (hierarchical_label "D+" (shape input) (at 82.55 74.93 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0c3b342d-4dae-402d-a42a-fad469c6e24d)
   )
@@ -1070,7 +1070,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0ebdb4fe-fc36-4c61-9b8f-70f0193e3de3)
   )
-  (hierarchical_label "DM" (shape input) (at 82.55 82.55 180)
+  (hierarchical_label "D-" (shape input) (at 82.55 82.55 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 11fe526c-1035-4c58-a2f2-dc67e4318f25)
   )
