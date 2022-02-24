@@ -1,6 +1,6 @@
 (footprint "BMP280" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62165C28)
+  (tedit 62175F35)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -5.3) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -75,7 +75,7 @@
   (pad "6" smd rect (at 0.325001 0.722201) (size 0.3556 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 725cdf26-4b92-46db-bca9-10d930002dda))
   (pad "7" smd rect (at -0.325001 0.722201) (size 0.3556 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e3d55c8-e0ea-48fb-8421-a84b7cb7055b))
   (pad "8" smd rect (at -0.9722 0.725 90) (size 0.3556 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 123968c6-74e7-4754-8c36-08ea08e42555))
-  (model "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/3D Model/BMP280--3DModel-STEP-1.STEP"
+  (model "${USER_PROIMU_3DMODELS}/BMP280--3DModel-STEP-1.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

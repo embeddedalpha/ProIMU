@@ -1,6 +1,6 @@
 (footprint "MOLEX_502570-0893" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6203B2D2)
+  (tedit 62175F09)
   (attr through_hole)
   (fp_text reference "REF**" (at -8.045685 4.631145 180) (layer "F.SilkS")
     (effects (font (size 1.001331 1.001331) (thickness 0.15)))
@@ -54,7 +54,7 @@
   (pad "SM2" smd rect (at 6.45 -7.1) (size 1.4 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dd08cf63-80f1-4a88-b3ea-950c9bf1164b))
   (pad "SM3" smd rect (at -2.9 7.375) (size 1.5 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 82771776-27f6-4c8a-8652-f67ca7a2b4f5))
   (pad "SM4" smd rect (at 6 7.375) (size 1.5 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 292c02f1-523d-4844-90f0-a744ec5ae311))
-  (model "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/3D Model/502570-0893.step"
+  (model "${USER_PROIMU_3DMODELS}/502570-0893.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

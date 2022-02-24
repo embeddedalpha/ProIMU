@@ -1,6 +1,6 @@
 (footprint "MP2731GQC0000Z" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62165C6E)
+  (tedit 62175EF6)
   (descr "QFN-26 (3.5mmx3.5mm)-2022")
   (tags "Integrated Circuit")
   (attr smd)
@@ -58,7 +58,7 @@
   (pad "28" smd rect (at -1.4 1.287) (size 0.3 0.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1cfebc8b-44e5-4c0a-9fb8-820b3b3f1843))
   (pad "29" smd rect (at 1.4 1.287) (size 0.3 0.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7aae5045-a43c-4c71-85ac-ed4f5d7b7899))
   (pad "30" smd rect (at 1.4 -1.287) (size 0.3 0.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4cd8f432-33a1-406c-ba93-9cc4513ca7cc))
-  (model "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/3D Model/MP2731GQC-0000-Z.stp"
+  (model "${USER_PROIMU_3DMODELS}/MP2731GQC-0000-Z.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

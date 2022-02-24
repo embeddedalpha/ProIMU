@@ -1,6 +1,6 @@
 (footprint "QFN40P300X300X105-24N" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6203B312)
+  (tedit 62175ECE)
   (attr through_hole)
   (fp_text reference "REF**" (at 0.636115 -3.180515) (layer "F.SilkS")
     (effects (font (size 1.00174 1.00174) (thickness 0.15)))
@@ -64,7 +64,7 @@
   (pad "22" smd roundrect (at -0.2 -1.545 270) (size 0.64 0.22) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp f081c5ee-2d7c-454a-ae5e-f89b6ddc1d26))
   (pad "23" smd roundrect (at -0.6 -1.545 270) (size 0.64 0.22) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp dcff4fe4-a296-4fc0-a12d-bb6b3501faf2))
   (pad "24" smd roundrect (at -1 -1.545 270) (size 0.64 0.22) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp d6487266-4010-40c8-82a0-ce8d241c85c6))
-  (model "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/3D Model/MPU-9250.step"
+  (model "${USER_PROIMU_3DMODELS}/MPU-9250.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -180))

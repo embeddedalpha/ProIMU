@@ -1,6 +1,6 @@
 (footprint "QFN50P700X700X60-49N" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6203B33E)
+  (tedit 62175EB6)
   (attr through_hole)
   (fp_text reference "REF**" (at -1.245 -5.75) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -101,7 +101,7 @@
   (pad "47" smd roundrect (at -2.25 -3.43 90) (size 0.87 0.27) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp 572bf966-40b4-4074-84f8-0470619143e0))
   (pad "48" smd roundrect (at -2.75 -3.43 90) (size 0.87 0.27) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp 79c29df9-918f-4473-b11b-3fedd120bff2))
   (pad "49" smd rect (at 0 0) (size 5.6 5.6) (layers "F.Cu" "F.Mask") (tstamp 00036662-fa99-4284-af32-cf49578c390a))
-  (model "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/3D Model/QFN50P700X700X60-49N.step"
+  (model "${USER_PROIMU_3DMODELS}/QFN50P700X700X60-49N.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

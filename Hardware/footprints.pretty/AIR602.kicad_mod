@@ -1,6 +1,6 @@
 (footprint "AIR602" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6203B1A6)
+  (tedit 62175F51)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -6.8) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -33,7 +33,7 @@
   (pad "10" smd roundrect (at 5 -1) (size 1.8 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 37e4dc66-4492-4061-908d-7213940a2ec3))
   (pad "11" smd roundrect (at 5 -3) (size 1.8 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fb03d859-dcc9-4533-b352-64830e0e5423))
   (pad "12" smd roundrect (at 5 -5) (size 1.8 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 29256b3d-9450-4c0a-a4d4-911f04b9c140))
-  (model "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/3D Model/air602.step"
+  (model "${USER_PROIMU_3DMODELS}/air602.step"
     (offset (xyz 5 -5 1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 90 90))

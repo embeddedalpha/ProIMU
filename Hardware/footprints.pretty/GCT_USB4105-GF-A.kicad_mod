@@ -1,6 +1,6 @@
 (footprint "GCT_USB4105-GF-A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6203B2B3)
+  (tedit 62175F1B)
   (attr through_hole)
   (fp_text reference "REF**" (at -1.825 -8.135) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -46,7 +46,7 @@
   (pad "S2" thru_hole oval (at -4.32 0) (size 1 2) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp fedb7d4b-8ca2-493c-b9a1-22e781d6d436))
   (pad "S3" thru_hole oval (at 4.32 0) (size 1 2) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp 3bced514-7c6a-4929-a2f4-97c9dfd34def))
   (pad "S4" thru_hole oval (at 4.32 -4.18) (size 1.05 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp dbc9643b-8b89-4ff3-80f6-063535be3753))
-  (model "D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/3D Model/USB4105-GF-A.step"
+  (model "${USER_PROIMU_3DMODELS}/USB4105-GF-A.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
