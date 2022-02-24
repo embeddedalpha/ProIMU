@@ -1,0 +1,12 @@
+### Missing 3D models - created on 2022-02-24 20:28
+### Printed by checking_3D_models plugin
+Board file: D:/Mics/Kicad Project/Product Suite/Blackshield Engineering/ProIMU/Hardware/kicad_proj/ProIMU_V1/ProIMU_V1.kicad_pcb
+3D missing models written to:
+D:\Mics\Kicad Project\Product Suite\Blackshield Engineering\ProIMU\Hardware\kicad_proj\ProIMU_V1\ProIMU_V1_missing3Dmodels.txt
+-------
+('CAN1', 'D:\\KiCAD\\6.0\\share\\kicad\\3dmodels\\Connector_JST.3dshapes\\JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal.wrl')
+('RS232', 'D:\\KiCAD\\6.0\\share\\kicad\\3dmodels\\Connector_JST.3dshapes\\JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal.wrl')
+('U3', 'D:\\KiCAD\\6.0\\share\\kicad\\3dmodels\\Package_DFN_QFN.3dshapes\\DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm.wrl')
+-------
+NUM of 3D missing models:3
+checked extensions ['.stp', '.step', '.stpZ']

@@ -1,0 +1,1 @@
+[('CAN1', 'D:\\KiCAD\\6.0\\share\\kicad\\3dmodels\\Connector_JST.3dshapes\\JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal.wrl'), ('RS232', 'D:\\KiCAD\\6.0\\share\\kicad\\3dmodels\\Connector_JST.3dshapes\\JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal.wrl'), ('U3', 'D:\\KiCAD\\6.0\\share\\kicad\\3dmodels\\Package_DFN_QFN.3dshapes\\DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm.wrl')]
