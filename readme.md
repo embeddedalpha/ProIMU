@@ -49,9 +49,8 @@
 
 </br>
 
-### Communication Protocols:
-
 <style>
+
 table {
   border-collapse: collapse;
   width: 100%;
@@ -66,7 +65,11 @@ td, th {
 tr:nth-child(even) {
   background-color: #000000;
 }
+
 </style>
+<br>
+
+### Communication Protocols:
 
 <table>
     <tr>
