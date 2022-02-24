@@ -49,27 +49,7 @@
 
 </br>
 
-<!-- <style>
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #FFFFFF;
-  text-align: center;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #000000;
-}
-
-</style>
-<br> -->
-
-### Communication Protocols:
+### Communication Protocols used:
 
 <table>
     <tr>
