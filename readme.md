@@ -1,8 +1,31 @@
 # ProIMU (Under Development)
 ### A high precision interial measurement unit with altitute and GPS support.
 
+### Features available: 
+<li>Yaw  (degrees / rad)</li>
+<li>Pitch  (degrees / rad)</li>
+<li>Roll   (degrees / rad)</li>
+<li>Quaternions (degrees / rad)</li>
+<li>Pressure (Pa / Hg)</li>
+<li>Altitude </li>
+<li>Temperature (C / F) </li>
+<li>Longitutde </li>
+<li>Lattitude </li>
+<li>Raw Accelerometer, Gyroscope & Magnetometer </li>
+<li>Direction (N/W/E/S) </li>
+</br>
 
-### Folders:
+### Communication Protocols Available:
+
+<li>CAN FD</li>
+<li>RS232</li>
+<li>USB</li>
+<li>TCP IP Socket</li>
+<li>MQTT</li>
+</br>
+
+
+### Project Folders:
 
     📁 Documentation
     📁 Firmware
@@ -19,30 +42,76 @@
     📁 Images
     📄 README.md
 
+</br>
 
-### Pinout of the MCU
-
+### Pinout of the MCU:
 <img src="Images/Pinout.png">
 
-### Features available: 
+</br>
 
-<li>Yaw  (degrees / rad)</li>
-<li>Pitch  (degrees / rad)</li>
-<li>Roll   (degrees / rad)</li>
-<li>Quaternions (degrees / rad)</li>
-<li>Pressure (Pa / Hg)</li>
-<li>Altitude </li>
-<li>Temperature (C / F) </li>
-<li>Longitutde </li>
-<li>Lattitude </li>
-<li>Raw Accelerometer, Gyroscope & Magnetometer </li>
-<li>Direction (N/W/E/S) </li>
+### Communication Protocols:
 
-### Communication Protocols Available:
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
-<li>CAN FD</li>
-<li>RS232</li>
-<li>USB</li>
-<li>TCP IP Socket</li>
-<li>MQTT</li>
+td, th {
+  border: 1px solid #FFFFFF;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #000000;
+}
+</style>
+
+<table>
+    <tr>
+        <th> Protocol
+        <th> Instance
+        <th> Device
+    </tr>
+    <tr>
+        <td> UART
+        <td> 1
+        <td> GNSS Module
+    </tr>
+    <tr>
+        <td> 
+        <td> 2
+        <td> Air602 WiFi Module
+    </tr>
+    <tr>
+        <td> 
+        <td> 3
+        <td> RS232 Port
+    </tr>
+    <tr>
+        <td> I2C
+        <td> 1
+        <td> MPU9250, BMP280
+    </tr>
+    <tr>
+        <td> 
+        <td> 2
+        <td> Battery Charger, Fuel Gauge
+    </tr>
+    <tr>
+        <td> SDIO
+        <td> 1
+        <td> SD Card Module
+    </tr>
+    <tr>
+        <td> USB 
+        <td> 1
+        <td> USB Port
+    </tr>
+</table>
+</br>
+
+
+
 
