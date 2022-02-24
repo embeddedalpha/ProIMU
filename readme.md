@@ -49,7 +49,7 @@
 
 </br>
 
-<style>
+<!-- <style>
 
 table {
   border-collapse: collapse;
@@ -67,7 +67,7 @@ tr:nth-child(even) {
 }
 
 </style>
-<br>
+<br> -->
 
 ### Communication Protocols:
 
