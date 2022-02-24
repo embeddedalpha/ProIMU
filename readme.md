@@ -4,10 +4,20 @@
 
 ### Folders:
 
-<li>Documentation</li>
-<li>Hardware</li>
-<li>Firmware</li>
-<li>Images</li>
+    📁 Documentation
+    📁 Firmware
+    📁 Hardware
+        ↳ 📁 3D Model
+        ↳ 📁 assembly_outputs
+        ↳ 📁 BOM
+        ↳ 📁 fab_outputs
+        ↳ 📁 position_file
+        ↳ 📁 footprints.pretty
+        ↳ 📁 kicad_proj
+            ↳ 📁 ProIMU_V1
+        ↳ 📁 lib_fp.pretty
+    📁 Images
+    📄 README.md
 
 
 ### Pinout of the MCU
