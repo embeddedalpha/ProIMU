@@ -57,30 +57,46 @@
         <th> Instance
         <th> Device
     </tr>
-    <tr>
+        <tr>
         <td> UART
         <td> 1
-        <td> GNSS Module
+        <td> Debug/Console
     </tr>
     <tr>
         <td> 
         <td> 2
-        <td> Air602 WiFi Module
+        <td> RS232
     </tr>
     <tr>
         <td> 
         <td> 3
-        <td> RS232 Port
+        <td> Air602 WiFi Module
+    </tr>
+    <tr>
+        <td> 
+        <td> 6
+        <td> GNSS Module
     </tr>
     <tr>
         <td> I2C
         <td> 1
-        <td> MPU9250, BMP280
+        <td> BMP280
     </tr>
     <tr>
         <td> 
         <td> 2
-        <td> Battery Charger, Fuel Gauge
+        <td> Battery Charger
+    </tr>
+        <tr>
+        <td> 
+        <td> 3
+        <td> Fuel Gauge
+    </tr>
+    </tr>
+    <tr>
+        <td> SPI
+        <td> 1
+        <td> MPU9250
     </tr>
     <tr>
         <td> SDIO
