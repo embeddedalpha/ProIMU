@@ -1,6 +1,8 @@
 # ProIMU (Under Development)
 ### A high precision interial measurement unit with altitute and GPS support.
 
+### ProIMU can be operated with and without battery. A 3000 mAh LiPo battery powers the device and can be recharged via USB.
+
 ### Features available: 
 <li>Yaw  (degrees / rad)</li>
 <li>Pitch  (degrees / rad)</li>
