@@ -9,4 +9,5 @@
   (lib (name "MP2731GQC-0000-Z")(type "KiCad")(uri "${USER_PROIMU_SYMBOLS}/MP2731GQC-0000-Z.kicad_sym")(options "")(descr ""))
   (lib (name "eec")(type "KiCad")(uri "${USER_PROIMU_SYMBOLS}/eec.kicad_sym")(options "")(descr ""))
   (lib (name "JST_SM06B")(type "Legacy")(uri "${USER_PROIMU_SYMBOLS}/JST_SM06B.lib")(options "")(descr ""))
+  (lib (name "L80-M39")(type "KiCad")(uri "${USER_PROIMU_SYMBOLS}/L80-M39.kicad_sym")(options "")(descr ""))
 )
