@@ -10,4 +10,5 @@
   (lib (name "eec")(type "KiCad")(uri "${USER_PROIMU_SYMBOLS}/eec.kicad_sym")(options "")(descr ""))
   (lib (name "JST_SM06B")(type "Legacy")(uri "${USER_PROIMU_SYMBOLS}/JST_SM06B.lib")(options "")(descr ""))
   (lib (name "L80-M39")(type "KiCad")(uri "${USER_PROIMU_SYMBOLS}/L80-M39.kicad_sym")(options "")(descr ""))
+  (lib (name "PDP1-S5-S5-M-TR")(type "KiCad")(uri "${USER_PROIMU_SYMBOLS}/PDP1-S5-S5-M-TR.kicad_sym")(options "")(descr ""))
 )
