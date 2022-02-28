@@ -439,12 +439,12 @@
       "USB "
     ],
     [
-      "9cc5f281-8fb7-47a9-9c17-e3fabf15db26",
-      "CAN"
-    ],
-    [
       "a9803014-b724-4cae-ba4b-6660e60196e3",
       "MCU"
+    ],
+    [
+      "9cc5f281-8fb7-47a9-9c17-e3fabf15db26",
+      "CAN"
     ],
     [
       "bed828c4-387d-4eb2-a7c6-9801796f33fa",
@@ -453,6 +453,10 @@
     [
       "bb54776e-f8a3-4e1c-b119-493ecc87eae5",
       "Radio"
+    ],
+    [
+      "79c192ef-e74d-481d-869d-ae39080225c4",
+      "Sensor"
     ]
   ],
   "text_variables": {}
