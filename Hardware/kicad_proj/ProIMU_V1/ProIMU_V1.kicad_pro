@@ -445,6 +445,14 @@
     [
       "a9803014-b724-4cae-ba4b-6660e60196e3",
       "MCU"
+    ],
+    [
+      "bed828c4-387d-4eb2-a7c6-9801796f33fa",
+      "Isolated UART"
+    ],
+    [
+      "bb54776e-f8a3-4e1c-b119-493ecc87eae5",
+      "Radio"
     ]
   ],
   "text_variables": {}
