@@ -431,10 +431,6 @@
       ""
     ],
     [
-      "09535cde-9ba2-41fd-bb26-86cd9c93b7a7",
-      "Battery"
-    ],
-    [
       "8a62f37d-df2b-4b29-b539-0ff63e1b6308",
       "USB "
     ],
@@ -457,6 +453,10 @@
     [
       "79c192ef-e74d-481d-869d-ae39080225c4",
       "Sensor"
+    ],
+    [
+      "ceafefd8-1eb5-48e6-8021-6c8550c93d7c",
+      "Power"
     ]
   ],
   "text_variables": {}
