@@ -56,48 +56,48 @@
         <th> Protocol
         <th> Instance
         <th> Device
-    </tr>
+    <!-- </tr>
         <tr>
         <td> UART
         <td> 1
         <td> Debug/Console
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td> 
         <td> 2
         <td> RS232
-    </tr>
+    </tr> -->
     <tr>
         <td> 
-        <td> 3
+        <td> 1
         <td> Air602 WiFi Module
     </tr>
     <tr>
         <td> 
-        <td> 6
+        <td> 2
         <td> GNSS Module
     </tr>
     <tr>
         <td> I2C
-        <td> 1
-        <td> BMP280
+        <td> 2
+        <td> MPU9250
     </tr>
     <tr>
         <td> 
         <td> 2
-        <td> Battery Charger
-    </tr>
+        <td> BMP280
+    <!-- </tr>
         <tr>
         <td> 
         <td> 3
         <td> Fuel Gauge
+    </tr> -->
     </tr>
-    </tr>
-    <tr>
+    <!-- <tr>
         <td> SPI
         <td> 1
         <td> MPU9250
-    </tr>
+    </tr> -->
     <tr>
         <td> SDIO
         <td> 1
