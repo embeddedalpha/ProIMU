@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# PDP1-S5-S5-M-TR
+#
+DEF PDP1-S5-S5-M-TR PS 0 40 Y Y 1 L N
+F0 "PS" -400 250 50 H V L BNN
+F1 "PDP1-S5-S5-M-TR" -400 -250 50 H V L BNN
+F2 "CONV_PDP1-S5-S5-M-TR" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "1.0" 0 0 50 H I L BNN "PARTREV"
+F6 "7.25mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F7 "CUI Inc." 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -400 -200 400 200 0 0 10 f
+X VIN 2 -600 100 200 R 40 40 0 0 I 
+X GND 1 -600 -100 200 R 40 40 0 0 W 
+X +VO 5 600 100 200 L 40 40 0 0 O 
+X 0V 4 600 -100 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

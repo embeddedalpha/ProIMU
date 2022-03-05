@@ -429,34 +429,6 @@
     [
       "6d202610-aa0f-404b-bb6c-5100c74d4ec1",
       ""
-    ],
-    [
-      "8a62f37d-df2b-4b29-b539-0ff63e1b6308",
-      "USB "
-    ],
-    [
-      "a9803014-b724-4cae-ba4b-6660e60196e3",
-      "MCU"
-    ],
-    [
-      "9cc5f281-8fb7-47a9-9c17-e3fabf15db26",
-      "CAN"
-    ],
-    [
-      "bed828c4-387d-4eb2-a7c6-9801796f33fa",
-      "Isolated UART"
-    ],
-    [
-      "bb54776e-f8a3-4e1c-b119-493ecc87eae5",
-      "Radio"
-    ],
-    [
-      "79c192ef-e74d-481d-869d-ae39080225c4",
-      "Sensor"
-    ],
-    [
-      "ceafefd8-1eb5-48e6-8021-6c8550c93d7c",
-      "Power"
     ]
   ],
   "text_variables": {}
