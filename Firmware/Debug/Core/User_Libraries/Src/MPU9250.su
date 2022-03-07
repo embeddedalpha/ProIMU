@@ -1,7 +1,0 @@
-main.h:175:26:Delay_ms	24	static
-MPU9250.c:36:13:MPU9250_Self_Test	128	static
-MPU9250.c:157:13:MPU9250_Calibration	136	static
-MPU9250.c:303:13:MPU9250_Init	16	static
-MPU9250.c:321:13:AK8963_Init	16	static
-MPU9250.c:339:7:IMU_Init	168	static
-MPU9250.c:572:7:IMU_Get_Data	16	static

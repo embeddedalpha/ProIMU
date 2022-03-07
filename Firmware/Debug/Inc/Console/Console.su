@@ -1,0 +1,4 @@
+Console.c:11:8:Console_Init	16	static
+Console.c:52:8:printConsole	132	static
+Console.c:66:7:scanConsole	10024	static
+Console.c:82:10:Console_Return	24	static

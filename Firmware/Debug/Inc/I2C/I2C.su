@@ -1,0 +1,13 @@
+I2C.c:13:6:I2C_Master_Init	16	static
+I2C.c:62:6:I2C_Master_Start	16	static
+I2C.c:69:6:I2C_Master_Address	32	static
+I2C.c:85:6:I2C_Master_Send_Byte	24	static
+I2C.c:92:6:I2C_Master_Send_Buffer	32	static
+I2C.c:102:5:I2C_Master_Receive_Byte	24	static
+I2C.c:112:6:I2C_Master_NACK	16	static
+I2C.c:117:6:I2C_Master_ACK	16	static
+I2C.c:122:6:I2C_Master_Stop	16	static
+I2C.c:131:6:I2C_Master_Write_Register	32	static
+I2C.c:140:5:I2C_Master_Read_Register	40	static
+I2C.c:155:6:I2C_Master_Write_Register_bits	48	static
+I2C.c:172:5:I2C_Master_Read_Register_bit	40	static

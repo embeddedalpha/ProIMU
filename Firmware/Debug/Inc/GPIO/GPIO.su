@@ -1,0 +1,6 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+GPIO.c:12:6:GPIO_Pin_Setup	16	static
+GPIO.c:42:6:GPIO_Pin_High	16	static
+GPIO.c:48:6:GPIO_Pin_Low	16	static
+GPIO.c:54:6:GPIO_Interrupt_Setup	16	static

@@ -1,0 +1,6 @@
+SPI.c:10:6:SPI_Init	8	static
+SPI.c:110:6:SPI_CSS_Init	8	static
+SPI.c:119:6:SPI_CSS_High	8	static
+SPI.c:128:6:SPI_CSS_Low	8	static
+SPI.c:138:6:SPI_Send_Data	8	static
+SPI.c:148:5:SPI_Receive_Data	32	static

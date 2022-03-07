@@ -20,11 +20,13 @@ OBJCOPY_BIN :=
 
 # Every subdirectory with source files must be described here
 SUBDIRS := \
-Core/Src \
-Core/Startup \
-Core/User_Libraries/Src \
-Drivers/STM32F4xx_HAL_Driver \
-Middlewares/USB_Device_Library \
-USB_DEVICE/App \
-USB_DEVICE/Target \
+Inc/BMP280 \
+Inc/Console \
+Inc/GPIO \
+Inc/I2C \
+Inc/MPU9250 \
+Inc/RTC \
+Inc/SPI \
+Src \
+Startup \
 
