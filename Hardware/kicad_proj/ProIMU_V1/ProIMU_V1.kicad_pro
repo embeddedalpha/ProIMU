@@ -437,6 +437,14 @@
     [
       "7492bd8e-fbb6-4639-b11f-e2577d25bd12",
       "Radio"
+    ],
+    [
+      "dc3385d9-fff5-451a-93eb-542bdf589d7f",
+      "MCU"
+    ],
+    [
+      "dbe376b9-f70e-4a9b-8af4-31adc5dd5ee8",
+      "USB"
     ]
   ],
   "text_variables": {}
