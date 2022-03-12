@@ -429,6 +429,14 @@
     [
       "6d202610-aa0f-404b-bb6c-5100c74d4ec1",
       ""
+    ],
+    [
+      "a1ce5d53-bcb8-4d84-9406-25a62b2a50c3",
+      "Motion_Sensor"
+    ],
+    [
+      "7492bd8e-fbb6-4639-b11f-e2577d25bd12",
+      "Radio"
     ]
   ],
   "text_variables": {}
