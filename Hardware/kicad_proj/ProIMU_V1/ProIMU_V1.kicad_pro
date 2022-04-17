@@ -450,6 +450,14 @@
     [
       "0d9ef179-8080-446d-896c-5c78d6bdba86",
       "GPS"
+    ],
+    [
+      "a78b10af-991a-45fa-ac2b-adb628727da0",
+      "LoRa_V1"
+    ],
+    [
+      "cb722c63-8b51-48e3-aff3-66a9df471c68",
+      "WIFI"
     ]
   ],
   "text_variables": {}
