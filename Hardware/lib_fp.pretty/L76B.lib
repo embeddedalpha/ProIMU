@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# L76B
+#
+DEF L76B U 0 40 Y Y 1 L N
+F0 "U" -600 730 50 H V L BNN
+F1 "L76B" -600 -700 50 H V L BNN
+F2 "XCVR_L76B" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "L76" 0 0 50 H I L BNN "MP"
+F5 "SOIC-8 Quectel" 0 0 50 H I L BNN "PACKAGE"
+F6 "Unavailable" 0 0 50 H I L BNN "AVAILABILITY"
+F7 "L76, the extremely compact GNSS module, is a concurrent GNSS receiver with multiple GNSS systems. It provides simultaneous GPS, GLONASS, BeiDou, Galileo and QZSS open service L1 reception capability." 0 0 50 H I L BNN "DESCRIPTION"
+F8 "Quectel" 0 0 50 H I L BNN "MF"
+F9 "None" 0 0 50 H I L BNN "PRICE"
+DRAW
+S -600 -600 600 700 0 0 10 f
+X VCC 8 800 600 200 L 40 40 0 0 W 
+X V_BCKP 6 800 500 200 L 40 40 0 0 W 
+X VCC_RF 14 800 400 200 L 40 40 0 0 W 
+X RESET 9 -800 200 200 R 40 40 0 0 I 
+X TXD1 2 800 -300 200 L 40 40 0 0 O 
+X RXD1 3 800 -200 200 L 40 40 0 0 I 
+X RF_IN 11 -800 0 200 R 40 40 0 0 I 
+X ANTON 13 800 0 200 L 40 40 0 0 O 
+X 1PPS 4 800 200 200 L 40 40 0 0 O 
+X FORCE_ON 18 -800 -300 200 R 40 40 0 0 I 
+X GND 1 800 -500 200 L 40 40 0 0 W 
+X GND 10 800 -500 200 L 40 40 0 0 W 
+X GND 12 800 -500 200 L 40 40 0 0 W 
+X STANDBY 5 -800 -200 200 R 40 40 0 0 I 
+ENDDRAW
+ENDDEF
+#
+# End Library
