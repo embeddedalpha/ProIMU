@@ -121,6 +121,7 @@
       "track_widths": [
         0.0,
         0.18,
+        0.349579,
         0.4
       ],
       "via_dimensions": [
@@ -445,6 +446,10 @@
     [
       "dbe376b9-f70e-4a9b-8af4-31adc5dd5ee8",
       "USB"
+    ],
+    [
+      "0d9ef179-8080-446d-896c-5c78d6bdba86",
+      "GPS"
     ]
   ],
   "text_variables": {}
